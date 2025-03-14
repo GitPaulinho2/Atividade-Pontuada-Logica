@@ -5,8 +5,8 @@ os.system("clear")
 
 
 print("Contagem regressiva.")
-for i in range(100,122,2):
+for i in range(1,22,2):
     print(f"Oi mundo: {i}")
-    time.sleep(1) # espera 1 segundo
+    time.sleep(0.1) # espera 1 segundo
 
-print("ACABOU.")
+print("ACABOU!")
