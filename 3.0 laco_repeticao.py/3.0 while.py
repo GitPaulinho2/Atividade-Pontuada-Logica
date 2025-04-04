@@ -25,9 +25,6 @@ if quantidade_geral > 0:
     media_pares = soma_pares / pares
     media_geral = soma / quantidade_geral
    
-
-
-
     print(f"Quantidade de pares: {pares}")
     print(f"Quantidade de imapares: {impares}")
     print(f"Méda de pares: {media_pares}")
