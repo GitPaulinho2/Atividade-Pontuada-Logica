@@ -7,7 +7,7 @@ def inflacao ():
     if produto_preco < 100:
         inflacionar = produto_preco * 1.10
     else:
-        produto_preco > 100
+        produto_preco >= 100
         inflacionar = produto_preco * 1.20
     return inflacionar
 
