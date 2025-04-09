@@ -11,9 +11,9 @@ dias_semana = {
 }
 
 aulas_semana = {
-    1: "Projeto de vida, Biologia, Filosofia, História Afro(2x)",
+    1: "Projeto de vida, Biologia, Filosofia, História Afro, Historia Afro",
     2: "Matemática, Geografia, Educação Física",
-    3: "Português, Química, Artes",
+    3: "Geografia, Física, Matemática, Matemática",
     4: "Física, Sociologia, Redação",
     5: "Inglês, Matemática, História",
     6: "Não há aulas hoje",
@@ -44,6 +44,6 @@ if opcao in dias_semana:
 
     print("=== Resultado ===")
     print(f"Dia Selecionado: {dia_escolhido[opcao]}")
-    print(f"Aula do Dia: {aulas_semana[opcao]}")
+    print(f"Aulas do Dia: {aulas_semana[opcao]}")
 
     #atualizando a tabela quando ter mais aulas :emoji insano:
