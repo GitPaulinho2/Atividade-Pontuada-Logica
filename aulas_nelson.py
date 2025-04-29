@@ -12,7 +12,7 @@ dias_semana = {
 
 aulas_semana = {
     1: "Projeto de vida, Biologia, Filosofia, História Afro, Historia Afro",
-    2: "Português, Português, ",
+    2: "Português, Português, Redação, Física, Biologia ",
     3: "Geografia, Física, Matemática, Matemática",
     4: "Física, Sociologia, Redação",
     5: "Inglês, Matemática, História",
