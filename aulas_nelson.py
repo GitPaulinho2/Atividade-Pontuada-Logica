@@ -11,11 +11,11 @@ dias_semana = {
 }
 
 aulas_semana = {
-    1: "Projeto de vida, Biologia, Filosofia, História Afro, Historia Afro",
-    2: "Português, Português, Redação, Física, Biologia ",
-    3: "Geografia, Física, Matemática, Matemática",
-    4: "Física, Sociologia, Redação",
-    5: "Inglês, Matemática, História",
+    1: "Projeto de vida, Matematica 2, Filosofia, História Afro, Historia Afro",
+    2: "Português, Português, Redação, Física, Matematica ",
+    3: "Geografia, Física, Biologia, Matematica, Matematica",
+    4: "História, Sociologia, Geografia, Uini, Uini",
+    5: "Quimica, quimica, História, Matematica2, Matematica2",
     6: "Não há aulas hoje",
     7: "Não há aulas hoje"
 }
