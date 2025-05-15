@@ -1,3 +1,0 @@
-Diego, 1, 1, 1
-Diego, 2, 2, 2
-Diego, 3, 3, 3
