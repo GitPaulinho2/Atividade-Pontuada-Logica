@@ -1,5 +1,5 @@
-import os
 import time
+import os
 
 os.system("cls || clear")
 
@@ -34,7 +34,7 @@ def atualizar(lista_nomes):
     mostrar(lista_nomes) # Mostrando lista de usuários.
     nome_antigo = input("Digite o nome que deseja atualizar: ")
     if nome_antigo in lista_nomes:
-        novo_nome = input(f"Digite o novo nome para {nome_antigo}: ")
+        novo_nome = input(f"Digite o novo nome: ")
         indice = lista_nomes.index(nome_antigo)
         lista_nomes[indice] = novo_nome
         print(f"{nome_antigo} foi atualizado para {novo_nome}")
