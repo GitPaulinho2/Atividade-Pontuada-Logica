@@ -63,12 +63,12 @@ def Explodir(nomes):
         time.sleep(1.5)
     for i in range(2):
         os.system("clear")
-        print("Nome Completo: Caique Jenipapeiro")
-        print("Idade: 17 anos")
+        print("Nome Completo: Douglas Bilau")
+        print("Idade: 69 anos")
         print("Horário que não tem ninguém em casa: 18:23")
         print("Cpf: 957.429.543-84")
         print("IP: 45.643.321.64")
-        print("Endereço: 4 travessa da glória, no canal da esquerda")
+        print("Endereço: Senzala mista")
     return
 
 def vaic(nomes):
