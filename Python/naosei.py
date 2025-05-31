@@ -31,6 +31,7 @@ def Adicionar_calabreso(nomes):
     ncartao = input("Digite o número do cartão: ")
 )
     nomes.append(calabreso)
+    
 def Atualizar_calabreso(nomes):
     if verificar_nomes(nomes):
         return
@@ -46,7 +47,7 @@ def Atualizar_calabreso(nomes):
             calabreso.ncartao = input("Digite o novo número do cartão: ")
             print("=-= Dados do calabreso atualizados! =-=")
         return
-    print(f"O funcionario com o nome ({dados_atualizar}) não foi encontrado!")
+    print(f"O calabreso com o nome ({dados_atualizar}) não foi encontrado!")
     os.system("clear")
 def mostrar_calabresos(nomes):
    if verificar_nomes(nomes):
