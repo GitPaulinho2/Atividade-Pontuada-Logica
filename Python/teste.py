@@ -111,4 +111,4 @@ while True:
         case _:
             print("Opção inválida.\nespere 3 segundos")
             time.sleep(3)
-            os.system("cls || clear")
+            os.system("cls || clear")
