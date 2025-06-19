@@ -7,9 +7,10 @@ idade = int(input("Digite sua idade: "))
 
 # Verificando (Processamento)
 if idade < 18:
-        print("Acesso negado!")
-        print("Acesso negado!")
-        print("Acesso negado!")
+        print("Acesso oi tudo oi!")
+        print("Acesso oi tudo oi!")
+        print("Acesso oi tudo oi!")
 
 # Exibindo dados (Saída)
+print(f"Idade: {idade}")
 print ("== Fim ==")      

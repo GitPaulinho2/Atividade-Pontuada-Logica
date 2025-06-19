@@ -14,7 +14,6 @@ os.system("clear")
 # print(9)
 # print(10)
 
-
 print("Com laço de repetição.")
 for i in range(1,11):
     print(f"Oi mundo: {i}")
